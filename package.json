@@ -1,6 +1,6 @@
 {
   "name": "yc-clean",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "this is a clean tool for yc",
   "main": "index.js",
   "scripts": {
