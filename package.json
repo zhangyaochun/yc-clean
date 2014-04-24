@@ -1,0 +1,26 @@
+{
+  "name": "yc-clean",
+  "version": "0.0.1",
+  "description": "this is a clean tool for yc",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/zhangyaochun/yc-clean.git"
+  },
+  "keywords": [
+    "yc",
+    "clean",
+    "tool"
+  ],
+  "dependencies": {
+    "rimraf" : "2.2.6"
+  },
+  "author": "zhangyaochun",
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://github.com/zhangyaochun/yc-clean/issues"
+  }
+}
