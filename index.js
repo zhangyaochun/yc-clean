@@ -1,8 +1,9 @@
 'use strict';
 
-var rimraf = require('rimraf');
 var fs = require('fs');
 var path = require('path');
+
+var rimraf = require('rimraf');
 
 //exists
 function exists() {
