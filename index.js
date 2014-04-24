@@ -42,7 +42,7 @@ module.exports = function(filepath) {
     } else if(isDir(filepath)) {
         //dir
         fs.readdirSync(filepath).forEach(function(file){
-            clean(filepath);
+            clean(file);
         });
     }
 
